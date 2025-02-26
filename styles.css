@@ -11,8 +11,8 @@ body{
     background-repeat: repeat;
 }
 .box{
-    width: 400px;
-    height: 240px;
+    width: 300px;
+    height: 180px;
     border-radius: 20px;
     margin: auto;
     background-image: url("back2.png");
@@ -24,43 +24,43 @@ body{
     align-items: center;
     height: 100%;
     margin-inline-start: 3px;
-    font-size: 175%;
+    font-size: 131%;
     transition: 1s;
 }
 #box1{
-    width: 500px;
-    height: 550px;
-    border-radius: 20px;
+    width: 375px;
+    height: 412px;
+    border-radius: 15px;
     background-image: url("back2.png");
     border: 20px solid #89dd89;
     margin-inline-start: 100px;
 }
 #box2{
-    width: 500px;
-    height: 550px;
-    border-radius: 20px;
-    margin-top: -587px;
-    margin-left: 750px;
+    width: 375px;
+    height: 412px;
+    border-radius: 15px;
+    margin-top: -440px;
+    margin-left: 563px;
     background-image: url("back2.png");
     border: 20px solid #89dd89;
 }
 #box3{
-    width: 500px;
-    height: 550px;
-    border-radius: 20px;
-    margin-top: -587px;
-    margin-left: 1400px;
+    width: 375px;
+    height: 412px;
+    border-radius: 15px;
+    margin-top: -440px;
+    margin-left: 1050px;
     background-image: url("back2.png");
     border: 20px solid #89dd89;
 }
 .text:hover{
-    font-size: 200%;
+    font-size: 115%;
 }
 .end{
-    width: 1800px;
+    width: 1350px;
     height: auto;
-    border-radius: 20px;
+    border-radius: 15px;
     background-image: url("back2.png");
-    border: 20px solid #89dd89;
+    border: 15px solid #89dd89;
     margin-inline-start: 100px;
 }
