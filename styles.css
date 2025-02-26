@@ -10,7 +10,7 @@
 body{
     background-image: url("back1.png");
     background-repeat: repeat;
-    zoom: 75%;
+    
 }
 .box{
     width: 400px;
@@ -19,7 +19,7 @@ body{
     margin: auto;
     background-image: url("back2.png");
     border: 20px solid #89dd89;
-    zoom: 75%;
+
 }
 .text{
     display: flex;
@@ -29,7 +29,7 @@ body{
     margin-inline-start: 3px;
     font-size: 175%;
     transition: 1s;
-    zoom: 75%;
+    
 }
 #box1{
     width: 500px;
@@ -38,7 +38,7 @@ body{
     background-image: url("back2.png");
     border: 20px solid #89dd89;
     margin-inline-start: 100px;
-    zoom: 75%;
+    
 }
 #box2{
     width: 500px;
@@ -48,7 +48,7 @@ body{
     margin-left: 750px;
     background-image: url("back2.png");
     border: 20px solid #89dd89;
-    zoom: 75%;
+    
 }
 #box3{
     width: 500px;
@@ -58,11 +58,11 @@ body{
     margin-left: 1400px;
     background-image: url("back2.png");
     border: 20px solid #89dd89;
-    zoom: 75%;
+    
 }
 .text:hover{
     font-size: 200%;
-    zoom: 75%;
+    
 }
 .end{
     width: 1800px;
@@ -71,5 +71,5 @@ body{
     background-image: url("back2.png");
     border: 20px solid #89dd89;
     margin-inline-start: 100px;
-    zoom: 75%;
+    
 }
