@@ -24,7 +24,7 @@ body{
     align-items: center;
     height: 100%;
     margin-inline-start: 3px;
-    font-size: 50px;
+    font-size: 10px;
     transition: 1s;
 }
 #box1{
@@ -54,7 +54,7 @@ body{
     border: 20px solid #89dd89;
 }
 .text:hover{
-    font-size: 60px;
+    font-size: 20px;
 }
 .end{
     width: 1350px;
