@@ -25,6 +25,7 @@ body{
     height: 100%;
     margin-inline-start: 3px;
     transition: 1s;
+    font-size: 5px;
 }
 #box1{
     width: 375px;
