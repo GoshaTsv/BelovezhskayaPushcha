@@ -1,16 +1,7 @@
-@font-face {
-    font-family: myFirstFont;
-    src: url(candara.ttf);
- }
- ​
- * {
-    font-family: myFirstFont;
-    zoom: 75%;
- }
 body{
     background-image: url("back1.png");
     background-repeat: repeat;
-    
+    width: 100%;
 }
 .box{
     width: 400px;
@@ -27,13 +18,13 @@ body{
     align-items: center;
     height: 100%;
     margin-inline-start: 3px;
-    font-size: 175%;
+    font-size: 110%;
     transition: 1s;
     
 }
 #box1{
-    width: 500px;
-    height: 550px;
+    width: 400px;
+    height: 300px;
     border-radius: 20px;
     background-image: url("back2.png");
     border: 20px solid #89dd89;
@@ -41,32 +32,33 @@ body{
     
 }
 #box2{
-    width: 500px;
-    height: 550px;
+    width: 400px;
+    height: 300px;
     border-radius: 20px;
-    margin-top: -587px;
-    margin-left: 750px;
+    margin-top: -340px;
+    margin-left: 550px;
     background-image: url("back2.png");
     border: 20px solid #89dd89;
     
 }
 #box3{
-    width: 500px;
-    height: 550px;
+    width: 400px;
+    height: 300px;
     border-radius: 20px;
-    margin-top: -587px;
-    margin-left: 1400px;
+    margin-top: -340px;
+    margin-left: 1000px;
     background-image: url("back2.png");
     border: 20px solid #89dd89;
     
 }
 .text:hover{
-    font-size: 200%;
+    font-size: 125%;
     
 }
 .end{
-    width: 1800px;
+    width: 1300px;
     height: auto;
+    margin-top: 10px;
     border-radius: 20px;
     background-image: url("back2.png");
     border: 20px solid #89dd89;
