@@ -9,7 +9,7 @@
 body{
     background-image: url("back1.png");
     background-repeat: repeat;
-    size: 75%;
+    zoom: 125%;
 }
 .box{
     width: 400px;
